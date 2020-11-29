@@ -1,0 +1,1 @@
+ssh -i "/Users/thomasbrannan/Desktop/hackReactor/FEC/PhotoCarrousel-Proxy/Thomas.pem" ubuntu@ec2-18-234-130-181.compute-1.amazonaws.com
